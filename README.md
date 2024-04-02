@@ -57,7 +57,7 @@ Here's an example of how to run the Weather Monitoring System:
 
 1. After navigating to the project directory and installing dependencies, run:
 
-   ```bash
+```bash
 npm run dev
 ```
 
@@ -70,4 +70,4 @@ npm run dev
 - **DarkSky Weather API**: [https://darksky.net/dev](https://darksky.net/dev)
 - **Google Places API**: [https://developers.google.com/places/web-service/get-api-key](https://developers.google.com/places/web-service/get-api-key)
 
-## 
+
