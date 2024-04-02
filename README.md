@@ -46,7 +46,8 @@ To run this Weather Monitoring System locally, follow these steps:
 Once you have installed the dependencies and set up your API keys, you can run the Weather Monitoring System using the following command:
 
 ```bash
-npm run dev```
+npm run dev
+```
 
 The system will prompt you to enter a location. You can enter the name of a city, a specific address, or even coordinates (latitude and longitude). After providing the location, the system will fetch and display the current weather information for that location.
 
@@ -57,7 +58,8 @@ Here's an example of how to run the Weather Monitoring System:
 1. After navigating to the project directory and installing dependencies, run:
 
    ```bash
-npm run dev   ```
+npm run dev
+```
 
 2. The system will prompt you to enter a location. For example, you can enter "New York" or "40.7128,-74.0060" for the coordinates of New York City.
 
